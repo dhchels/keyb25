@@ -1,0 +1,34 @@
+# Backup and recovery files
+*.SchDocPreview
+*.tmp
+*.bak
+*.log
+*.Err
+*.dmp
+*.zip
+~$*
+
+# Simulation and generated data
+*.sim
+*.out
+*.prjpcbstructure
+*.data
+*.dat
+*.cache
+*.pcf
+*.PcbDocPreview
+*.DRC
+*.REP
+*.Step
+
+# Altium-generated folders
+__Previews
+History
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git metadata
+.git
