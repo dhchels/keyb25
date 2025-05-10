@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -67,6 +67,91 @@ GenerateClassCluster=0
 DocumentUniqueId=RYIKSWGO
 
 [Document2]
+DocumentPath=..\..\Keyboard (not including altium project)\EC11E15244B2\AltiumDesigner\EC11E15244B2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IPKSQHVS
+
+[Document3]
+DocumentPath=..\..\Keyboard (not including altium project)\EC11E15244B2\AltiumDesigner\EC11E15244B2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUJALWZJ
+
+[Document4]
+DocumentPath=..\..\..\Imported EC11E-Switch_Vertical_NoahK_MODIFIED\EC11E-Switch-Vertical.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SPUFLONQ
+
+[Document5]
+DocumentPath=..\..\Keyboard (not including altium project)\MX_Alps_Hybrid-master\Schematic Library\Imported MX_Alps_Hybrid\MX_Alps_Hybrid.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RRVIQHPM
+
+[Document6]
+DocumentPath=..\..\Keyboard (not including altium project)\MX_Alps_Hybrid-master\Imported MXOnly-1.5U\MX_Only.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IHKALKNG
+
+[Document7]
 DocumentPath=..\..\Keyboard (not including altium project)\SM04B_SRSS_TB\AltiumDesigner\SM04B-SRSS-TB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOVOXJET
 
-[Document3]
+[Document8]
 DocumentPath=..\..\Keyboard (not including altium project)\SM04B_SRSS_TB\AltiumDesigner\SM04B-SRSS-TB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGSDCGOY
 
-[Document4]
+[Document9]
 DocumentPath=..\..\..\Downloads\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document10]
 DocumentPath=Keyboard2025.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,14 +219,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document11]
 DocumentPath=Matrix.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
