@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JYICEYXN
 
 [Document3]
+DocumentPath=..\..\..\Imported SSD1306-0.91-OLED-4pin-128x32\OLED.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMDGWAWB
+
+[Document4]
 DocumentPath=..\..\Keyboard (not including altium project)\RB060M-60TR Diode\RB060MM-60TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OULENLMI
 
-[Document4]
+[Document5]
 DocumentPath=..\..\Keyboard (not including altium project)\RB060M-60TR Diode\RB060MM-60TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBNLUDJY
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\Downloads\Imported random-keyboard-parts\JST 4pin.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLKBVUOB
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\Downloads\Imported random-keyboard-parts\random-keyboard-parts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJYNJQED
 
-[Document7]
+[Document8]
 DocumentPath=..\..\Keyboard (not including altium project)\EC11E15244B2\AltiumDesigner\EC11E15244B2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPKSQHVS
 
-[Document8]
+[Document9]
 DocumentPath=..\..\Keyboard (not including altium project)\EC11E15244B2\AltiumDesigner\EC11E15244B2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUJALWZJ
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\Imported EC11E-Switch_Vertical_NoahK_MODIFIED\EC11E-Switch-Vertical.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPUFLONQ
 
-[Document10]
+[Document11]
 DocumentPath=..\..\Keyboard (not including altium project)\MX_Alps_Hybrid-master\Schematic Library\Imported MX_Alps_Hybrid\MX_Alps_Hybrid.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRVIQHPM
 
-[Document11]
+[Document12]
 DocumentPath=..\..\Keyboard (not including altium project)\MX_Alps_Hybrid-master\Imported MXOnly-1.5U\MX_Only.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHKALKNG
 
-[Document12]
+[Document13]
 DocumentPath=..\..\Keyboard (not including altium project)\SM04B_SRSS_TB\AltiumDesigner\SM04B-SRSS-TB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOVOXJET
 
-[Document13]
+[Document14]
 DocumentPath=..\..\Keyboard (not including altium project)\SM04B_SRSS_TB\AltiumDesigner\SM04B-SRSS-TB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGSDCGOY
 
-[Document14]
+[Document15]
 DocumentPath=..\..\..\Downloads\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=Keyboard2025.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=..\..\..\..\..\ProgramData\Altium\Altium Designer {1A930F83-B9DF-4693-B651-87D033247A28}\VaultEditCache\F84098A5-0B4E-4E65-B8D7-DAB6ECAF0562\Released\1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,6 +337,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBANUEJA
+
+[Document18]
+DocumentPath=pcb.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ADAPKQUS
 
 [Configuration1]
 Name=Sources
@@ -985,6 +1019,7 @@ Type155=1
 Type156=1
 Type157=1
 Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1073,6 +1108,7 @@ Type83=1
 Type84=1
 Type85=1
 Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1236,6 +1272,8 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
